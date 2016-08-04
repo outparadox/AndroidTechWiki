@@ -4,7 +4,7 @@
 ***
  Author:outparadox
  
- E-mail:'outparadox@gmail.com'
+ E-mail:outparadox@gmail.com
  
  * Kotlin 语法规则
 
