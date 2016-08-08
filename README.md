@@ -9,6 +9,11 @@
  * Kotlin 语法规则
 
  [https://huanglizhuo.gitbooks.io/kotlin-in-chinese/content/GettingStarted/Basic-Syntax.html](https://huanglizhuo.gitbooks.io/kotlin-in-chinese/content/GettingStarted/Basic-Syntax.html)  
+
+
+* Kotlin 语法规则(官方版本)
+ 
+ [http://kotlinlang.cn/docs/reference/null-safety.html](http://kotlinlang.cn/docs/reference/null-safety.html)
  
  * Anko for Android
  
