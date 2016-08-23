@@ -37,3 +37,9 @@
  
  [http://git.bookislife.com/post/](http://git.bookislife.com/post/)
 
+* 一些好的Android学习网站
+
+ [http://www.xueandroid.com/](http://www.xueandroid.com/) 
+
+
+
